@@ -1,14 +1,14 @@
 # <div align="center">Hey👋, I'm Usama!</div>  
   
-#### I’m currently learning Web & App Hybrid Application Development  
+ <h4>I’m currently learning Web & App Hybrid Application Development</h4>
 
-- 🔭 I’m currently working on HTML, CSS, PHP.  
+ 🔭 I’m currently working on HTML, CSS, PHP.  
   
 
-- 🌱 I’m currently learning Firebase, React, React Native  
+ 🌱 I’m currently learning Firebase, React, React Native  
   
 
-- ❓ How to reach me syedusama875@gmail.com  
+ ❓ How to reach me syedusama875@gmail.com  
   
 
 <br/>  
