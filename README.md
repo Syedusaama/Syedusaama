@@ -1,5 +1,6 @@
 # <div align="center">Hey👋, I'm Usama!</div>  
   
+#### I’m currently learning Web & App Hybrid Application Development  
 
 - 🔭 I’m currently working on HTML, CSS, PHP.  
   
